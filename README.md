@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhphu&label=Profile%20views&color=0e75b6&style=flat" alt="hhphu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhphu" alt="hhphu" /></a> </p>
-
 - 🔭 I’m currently working on **AWS Certified Security – Specialty**
 
 - 🌱 I’m currently learning **Cloud Security**
