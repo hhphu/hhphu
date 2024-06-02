@@ -1,12 +1,12 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Huy Phu 👋
 
-[![Your Name's GitHub Banner](https://link.to/your/banner/image.png)](https://github.com/yourusername)
+[![Your Name's GitHub Banner](https://link.to/your/banner/image.png)](https://github.com/hhphu)
 
-I'm a [Your Role] with a passion for [Your Interests]. 
+I'm a QA Engineer with a passion for Cybersecurity. 
 
 ### About Me
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Your Learning Goals]
+- 🔭 I’m currently working on AWS Certified Security – Specialty
+- 🌱 I’m currently learning Bug Bounty & Cloud Pentesting with a little bit of AI
 - 👯 I’m looking to collaborate on [Your Collaboration Interests]
 - 🤔 I’m looking for help with [Your Help Requests]
 - 💬 Ask me about [Topics You Can Discuss]
