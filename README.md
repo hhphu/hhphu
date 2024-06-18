@@ -35,9 +35,10 @@
 - [Terraform 101: Create an AWS EC2 instance](https://medium.com/@hhphu/terraform-101-create-an-aws-ec2-instance-ac098bf10e88?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hhphu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hhphu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhphu&show_icons=true&locale=en" alt="hhphu" /></p>
+
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/hhphu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hhphu" /></a></p><br><br>
