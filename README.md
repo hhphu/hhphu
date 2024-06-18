@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Huy Phu</h1>
 <h3 align="center">QA Engineer - Security Engineer </h3>
 <p align="center">
+  <a href="https://x.com/hhphu" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="@hhphu" height="30" width="150" /></a>
   <a href="https://linkedin.com/in/hhphu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a>
   <a href="https://instagram.com/inphuseclab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linkedin" height="20" width="30" /></a>
-  <a href="https://medium.com/@hhphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hhphu" height="30" width="40" /></a>
+  <a href="https://hhpu.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hhphu" height="30" width="40" /></a>
   <a href="https://x.com/hhphu" target="blank"><img align="center" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=x&logoColor=black" alt="@hhphu" height="30" width="40" /></a>
 </p>
 
