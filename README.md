@@ -42,4 +42,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/hhphu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hhphu" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/hhphu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hhphu" /></a>
+  <a href="https://medium.com/@hhphu"> <img align="left" src="https://img.icons8.com/?size=100&id=sIQ7pEkjnEJW&format=png&color=000000" height="50" width="80" alt="https://buymeacoffee.com/hhphu" /></a>
+</p>
