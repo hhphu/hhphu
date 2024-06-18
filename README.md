@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AWS Certified Security – Specialty**
 
-- 🌱 I’m currently learning **Cloud Security**
+- 🌱 I’m currently learning **Information Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hhphu](https://github.com/hhphu)
 
