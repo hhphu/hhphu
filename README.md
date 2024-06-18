@@ -28,6 +28,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2023](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2023-d02b2c90e54a?source=rss-8af12e432623------2)
+- [AWS Vault for Workstation: A Comprehensive Guide to Secure Profile Setup](https://medium.com/@hhphu/aws-vault-for-workstation-a-comprehensive-guide-to-secure-profile-setup-3a22b7437e3f?source=rss-8af12e432623------2)
+- [Microsoft Azure: Automate multi-servers DVWA deployment with Ansible](https://medium.com/@hhphu/microsoft-azure-automate-multi-servers-dvwa-deployment-with-ansible-a0b8befc13a9?source=rss-8af12e432623------2)
+- [Terraform 101: Create an AWS EC2 instance](https://medium.com/@hhphu/terraform-101-create-an-aws-ec2-instance-ac098bf10e88?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
