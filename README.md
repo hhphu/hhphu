@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Resume Challenge — Set up Vault for AWS accounts](https://medium.com/@hhphu/aws-cloud-resume-challenge-set-up-vault-for-aws-accounts-67a5ba0b818e?source=rss-8af12e432623------2)
-- [TryHackMe — Advent of Cyber 2023](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2023-d02b2c90e54a?source=rss-8af12e432623------2)
-- [AWS Vault for Workstation: A Comprehensive Guide to Secure Profile Setup](https://medium.com/@hhphu/aws-vault-for-workstation-a-comprehensive-guide-to-secure-profile-setup-3a22b7437e3f?source=rss-8af12e432623------2)
-- [Microsoft Azure: Automate multi-servers DVWA deployment with Ansible](https://medium.com/@hhphu/microsoft-azure-automate-multi-servers-dvwa-deployment-with-ansible-a0b8befc13a9?source=rss-8af12e432623------2)
-- [Terraform 101: Create an AWS EC2 instance](https://medium.com/@hhphu/terraform-101-create-an-aws-ec2-instance-ac098bf10e88?source=rss-8af12e432623------2)
+- [AWS Cloud Resume Challenge — Create resources using Terraform](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-resources-using-terraform-0e3694f2c339?source=rss-8af12e432623------2)
+- [AWS Cloud Resume Challenge — Setting CI/CD for Front End using Github Actions](https://medium.com/@hhphu/aws-cloud-resume-challenge-setting-ci-cd-for-front-end-using-github-actions-23d5c61d5923?source=rss-8af12e432623------2)
+- [AWS Cloud Resume Challenge — Create Lambda functions to track website visits](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-lambda-functions-to-track-website-visits-4a95f2badb31?source=rss-8af12e432623------2)
+- [AWS Cloud Resume Challenge — Implement HTTPS with AWS CloudFront](https://medium.com/@hhphu/aws-cloud-resume-challenge-implement-https-with-aws-cloudfront-2d469e69df8e?source=rss-8af12e432623------2)
+- [AWS Cloud Resume Challenge — Configure DNS with AWS Route 53](https://medium.com/@hhphu/aws-cloud-resume-challenge-configure-dns-with-aws-route-53-9f0b45e0f212?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
