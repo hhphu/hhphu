@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Snyk](https://medium.com/@hhphu/tryhackme-snyk-54e7f0cd8ea0?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge](https://medium.com/@hhphu/aws-cloud-resume-challenge-dd1624d3e71a?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge — Create DynamoDB](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-dynamodb-f60e8ffcc7df?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge — Create resources using Terraform](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-resources-using-terraform-0e3694f2c339?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge — Setting CI/CD for Front End using Github Actions](https://medium.com/@hhphu/aws-cloud-resume-challenge-setting-ci-cd-for-front-end-using-github-actions-23d5c61d5923?source=rss-8af12e432623------2)
-- [AWS Cloud Resume Challenge — Create Lambda functions to track website visits](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-lambda-functions-to-track-website-visits-4a95f2badb31?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
