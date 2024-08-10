@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Attacking and Defending AWS: AWS Basic Concepts](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-aws-basic-concepts-0b64c10841d7?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: AWS Cloud 101](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-aws-cloud-101-e82f0964abc5?source=rss-8af12e432623------2)
 - [TryHackMe — Snyk](https://medium.com/@hhphu/tryhackme-snyk-54e7f0cd8ea0?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge](https://medium.com/@hhphu/aws-cloud-resume-challenge-dd1624d3e71a?source=rss-8af12e432623------2)
 - [AWS Cloud Resume Challenge — Create DynamoDB](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-dynamodb-f60e8ffcc7df?source=rss-8af12e432623------2)
-- [AWS Cloud Resume Challenge — Create resources using Terraform](https://medium.com/@hhphu/aws-cloud-resume-challenge-create-resources-using-terraform-0e3694f2c339?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
