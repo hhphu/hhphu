@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Attacking and Defending AWS: Resource Policies &amp; SCPs](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-resource-policies-scps-db03e3cbef8f?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: IAM Permissions](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-permissions-b5a7b99af920?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: IAM Principals](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-principals-35c0221eae6e?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: AWS Basic Concepts](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-aws-basic-concepts-0b64c10841d7?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: AWS Cloud 101](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-aws-cloud-101-e82f0964abc5?source=rss-8af12e432623------2)
-- [TryHackMe — Snyk](https://medium.com/@hhphu/tryhackme-snyk-54e7f0cd8ea0?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
