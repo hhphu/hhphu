@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Much Effort Do You Think is Enough?](https://medium.com/@hhphu/how-much-effort-do-you-think-is-enough-326b67001bf6?source=rss-8af12e432623------2)
 - [Top Cybersecurity Books to inspire you](https://medium.com/@hhphu/top-cybersecurity-books-to-inspire-you-fd4090212a27?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: Resource Policies &amp; SCPs](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-resource-policies-scps-db03e3cbef8f?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: IAM Permissions](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-permissions-b5a7b99af920?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: IAM Principals](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-principals-35c0221eae6e?source=rss-8af12e432623------2)
-- [TryHackMe — Attacking and Defending AWS: AWS Basic Concepts](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-aws-basic-concepts-0b64c10841d7?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
