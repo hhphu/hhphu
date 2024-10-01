@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Multi-Factor Authentication](https://medium.com/@hhphu/tryhackme-multi-factor-authentication-01a9cad363f1?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: The quest for Least Privilege](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-the-quest-for-least-privilege-5ba7dd853313?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: IAM Credentials](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-credentials-57ede7c0c7d7?source=rss-8af12e432623------2)
 - [How good is Telegram CEO? Why France has to urgently arrest him?](https://medium.com/@hhphu/how-good-is-telegram-ceo-why-france-has-to-urgently-arrest-him-fd41e0c8dab5?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: Introduction to AWS IAM](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-introduction-to-aws-iam-a17dc4156d0e?source=rss-8af12e432623------2)
-- [Overcoming Impostor Syndrome in Cybersecurity: Facing Fear Head-On](https://medium.com/@hhphu/overcoming-impostor-syndrome-in-cybersecurity-facing-fear-head-on-636d8df3161d?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
