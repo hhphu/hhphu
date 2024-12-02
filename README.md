@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 1: Maybe SOC-mas music, he thought, doesn’t come from a store?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-store-164c61cc8440?source=rss-8af12e432623------2)
 - [Top 10 Black Friday Deals for Cybersecurity Professionals](https://medium.com/@hhphu/top-10-black-friday-deals-for-cybersecurity-professionals-db848898066e?source=rss-8af12e432623------2)
 - [TryHackMeOAuth Vulnerabilities](https://medium.com/@hhphu/tryhackmeoauth-vulnerabilities-1a5d3a8a56a2?source=rss-8af12e432623------2)
 - [TryHackMe — Multi-Factor Authentication](https://medium.com/@hhphu/tryhackme-multi-factor-authentication-01a9cad363f1?source=rss-8af12e432623------2)
 - [TryHackMe — Attacking and Defending AWS: The quest for Least Privilege](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-the-quest-for-least-privilege-5ba7dd853313?source=rss-8af12e432623------2)
-- [TryHackMe — Attacking and Defending AWS: IAM Credentials](https://medium.com/@hhphu/tryhackme-attacking-and-defending-aws-iam-credentials-57ede7c0c7d7?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
