@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 5: SOC-mas XX-what-ee?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-5-soc-mas-xx-what-ee-5bc8e68d31c5?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber: Day 4: I’m all atomic inside!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-day-4-im-all-atomic-inside-9dbcf8de4b92?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber: Day 3: Even if I wanted to go, their vulnerabilities wouldn’t allow](https://medium.com/@hhphu/tryhackme-advent-of-cyber-day-3-even-if-i-wanted-to-go-their-vulnerabilities-wouldnt-allow-93338c4534bd?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 2: One man’s false positive is another man’s potpourri.](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-2-one-mans-false-positive-is-another-man-s-potpourri-97683b2b7af8?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 1: Maybe SOC-mas music, he thought, doesn’t come from a store?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-store-164c61cc8440?source=rss-8af12e432623------2)
-- [Top 10 Black Friday Deals for Cybersecurity Professionals](https://medium.com/@hhphu/top-10-black-friday-deals-for-cybersecurity-professionals-db848898066e?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
