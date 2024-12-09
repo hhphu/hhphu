@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 7 : Oh, no. I’M SPEAKING IN CLOUDTRAIL!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-7-oh-no-im-speaking-in-cloudtrail-b01c39a7a296?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 6: If I can’t find a nice malware to use, I’m not going.](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-6-if-i-cant-find-a-nice-malware-to-use-i-m-not-going-85a6771daf77?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 5: SOC-mas XX-what-ee?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-5-soc-mas-xx-what-ee-5bc8e68d31c5?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber: Day 4: I’m all atomic inside!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-day-4-im-all-atomic-inside-9dbcf8de4b92?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber: Day 3: Even if I wanted to go, their vulnerabilities wouldn’t allow](https://medium.com/@hhphu/tryhackme-advent-of-cyber-day-3-even-if-i-wanted-to-go-their-vulnerabilities-wouldnt-allow-93338c4534bd?source=rss-8af12e432623------2)
-- [TryHackMe — Advent of Cyber 2024: Day 2: One man’s false positive is another man’s potpourri.](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-2-one-mans-false-positive-is-another-man-s-potpourri-97683b2b7af8?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
