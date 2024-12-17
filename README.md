@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 16: The Wareville’s Key Vault grew three sizes that day.](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-16-the-warevilles-key-vault-grew-three-sizes-that-day-981437920cea?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 14: Even if we’re horribly mismanaged, there’ll be no sad…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-14-even-if-were-horribly-mismanaged-there-ll-be-no-sad-341590018720?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 13: It came without buffering! It came without lag!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-13-it-came-without-buffering-it-came-without-lag-3d1f1f996956?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 12: If I can’t steal their money, I’ll steal their joy!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-12-if-i-cant-steal-their-money-i-ll-steal-their-joy-baff1a1967ef?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 11: If you’d like to WPA, press the star key!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-11-if-youd-like-to-wpa-press-the-star-key-9298924a3bc7?source=rss-8af12e432623------2)
-- [TryHackMe — Advent of Cyber 2024: Day 10:He had a brain full of macros, and had shell in his soul](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-10-he-had-a-brain-full-of-macros-and-had-shell-in-his-soul-410fd831e216?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
