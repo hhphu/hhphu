@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 20: If you utter so much as one packet…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-20-if-you-utter-so-much-as-one-packet-76c898f806d3?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 19: I merely noticed that you’re improperly stored, my dear…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-19-i-merely-noticed-that-youre-improperly-stored-my-dear-19afa472f7f6?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 18: I could use a little AI interaction!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-18-i-could-use-a-little-ai-interaction-6d8098ab0b25?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 17: He analyzed and analyzed till his analyzer was sore!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-17-he-analyzed-and-analyzed-till-his-analyzer-was-sore-56669a43b2b0?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 15: Be it ever so heinous, there’s no place like Domain…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-15-be-it-ever-so-heinous-theres-no-place-like-domain-b97b8c769e2a?source=rss-8af12e432623------2)
-- [TryHackMe — Advent of Cyber 2024: Day 16: The Wareville’s Key Vault grew three sizes that day.](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-16-the-warevilles-key-vault-grew-three-sizes-that-day-981437920cea?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
