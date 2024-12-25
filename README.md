@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Advent of Cyber 2024: Day 24: You can’t hurt SOC-mas, Mayor Malware!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-24-you-cant-hurt-soc-mas-mayor-malware-310f03777cb2?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 23: You wanna know what happens to your hashes?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-23-you-wanna-know-what-happens-to-your-hashes-401c6b299d60?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 22: It’s because I’m kubed, isn’t it?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-22-its-because-i-m-kubed-isn-t-it-161ecc891a86?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 21: HELP ME…I’m REVERSE ENGINEERING!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-21-help-me-im-reverse-engineering-194ed84230fe?source=rss-8af12e432623------2)
 - [TryHackMe — Advent of Cyber 2024: Day 20: If you utter so much as one packet…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-20-if-you-utter-so-much-as-one-packet-76c898f806d3?source=rss-8af12e432623------2)
-- [TryHackMe — Advent of Cyber 2024: Day 19: I merely noticed that you’re improperly stored, my dear…](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-19-i-merely-noticed-that-youre-improperly-stored-my-dear-19afa472f7f6?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
