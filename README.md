@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Attack &amp; Defend AWS: AWS LAMBDA](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-lambda-7ba80c2cda88?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS VPC — Data Exfiltration](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-vpc-data-exfiltration-3d1e2ba31ca6?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS VPC — Attack and Defense](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-vpc-attack-and-defense-126073e6fb0e?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS EC2 — Attack and Defense](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-ec2-attack-and-defense-d84c02577d9b?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS S3 — Attak and Defense](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-s3-attak-and-defense-b82c8477f2a0?source=rss-8af12e432623------2)
-- [TryHackMe — Attack &amp; Defend AWS: STS Credentials](https://medium.com/@hhphu/tryhackme-attack-defend-aws-sts-credentials-fbcad70a7b42?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
