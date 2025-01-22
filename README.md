@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Web App PenTest: JWT Security](https://medium.com/@hhphu/tryhackme-web-app-pentest-jwt-security-97bf184bcefd?source=rss-8af12e432623------2)
 - [TryHackMe — Web Application Pentesting: Authentication Enumeration &amp; Brute Force](https://medium.com/@hhphu/tryhackme-web-application-pentesting-authentication-enumeration-brute-force-2da77d4e2951?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS IAM Initial Access](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-iam-initial-access-76d85491d0fd?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS IAM Enumeration](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-iam-enumeration-cb4a7afed3d8?source=rss-8af12e432623------2)
 - [TryHackMe — Attack &amp; Defend AWS: AWS Lambda &amp; Data Exfiltration](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-lambda-data-exfiltration-9a571de45d19?source=rss-8af12e432623------2)
-- [TryHackMe — Attack &amp; Defend AWS: AWS Lambda &amp; Data Exfiltration](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-lambda-data-exfiltration-1fe3d76ea988?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
