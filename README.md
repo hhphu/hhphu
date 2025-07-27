@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Web App PenTest: NoSQL Injection](https://medium.com/@hhphu/tryhackme-web-app-pentest-nosql-injection-2aae869300eb?source=rss-8af12e432623------2)
+- [TryHackMe — Web App Pentest: Advanced SQL Injection](https://medium.com/@hhphu/tryhackme-web-app-pentest-advanced-sql-injection-5d3bff092d6f?source=rss-8af12e432623------2)
 - [TryHackMe — Web App PenTest: Session Management](https://medium.com/@hhphu/tryhackme-web-app-pentest-session-management-61b00083a51d?source=rss-8af12e432623------2)
 - [TryHackMe — Web App PenTest: OAuth Vulnerabilities](https://medium.com/@hhphu/tryhackme-web-app-pentest-oauth-vulnerabilities-28069cf20ab6?source=rss-8af12e432623------2)
 - [TryHackMe — Web App PenTest: JWT Security](https://medium.com/@hhphu/tryhackme-web-app-pentest-jwt-security-97bf184bcefd?source=rss-8af12e432623------2)
-- [TryHackMe — Web Application Pentesting: Authentication Enumeration &amp; Brute Force](https://medium.com/@hhphu/tryhackme-web-application-pentesting-authentication-enumeration-brute-force-2da77d4e2951?source=rss-8af12e432623------2)
-- [TryHackMe — Attack &amp; Defend AWS: AWS IAM Initial Access](https://medium.com/@hhphu/tryhackme-attack-defend-aws-aws-iam-initial-access-76d85491d0fd?source=rss-8af12e432623------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhphu&show_icons=true&locale=en&layout=compact" alt="hhphu" /></p>
